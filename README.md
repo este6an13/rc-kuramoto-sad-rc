@@ -1,0 +1,3 @@
+## Study of an Adaptive Reservoir Computing Algorithm for Time Series Prediction based on the Kuramoto Model
+
+This repository contains the code and accompanying materials for the project titled "Study of an Adaptive Reservoir Computing Algorithm for Time Series Prediction based on the Kuramoto Model". The project aims to replicate the findings presented in the article "Self-Evolutionary Reservoir Computer Based on Kuramoto Model" by Zhihao Zuo, Zhongxue Gan, Yuchuan Fan, Vjaceslavs Bobrovs, Xiaodan Pang, Oskars Ozolins, published on arXiv. The article can be accessed at https://arxiv.org/abs/2301.10654.
